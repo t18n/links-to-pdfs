@@ -9,3 +9,7 @@ Convert a list of links to PDF files.
 - Run `npm run export`.
 - Sip a coffee ☕️
 - Enjoy!
+
+## TODO
+- [ ] Add option to merge into one file
+- [ ] Add option to scrape all links from one URL
