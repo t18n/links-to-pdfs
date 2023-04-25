@@ -1,0 +1,11 @@
+{
+	"name": "links-to-pdfs",
+	"version": "0.0.1",
+	"scripts": {
+		"export": "node ./export-github-pages.js"
+	},
+	
+	"dependencies": {
+		"puppeteer": "^19.0.0"
+	}
+}
